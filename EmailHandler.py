@@ -1,3 +1,12 @@
+"""
+File: EmailHandler.py
+@author: Zack Westermann
+
+The Email Handler uses the smtplib in python and provides easy interface for sending price alerts.
+
+"""
+
+
 import smtplib
 from email.message import EmailMessage
 
