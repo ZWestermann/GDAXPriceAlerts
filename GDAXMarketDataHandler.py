@@ -3,7 +3,9 @@
 File: GDAXMarketDataHandler.py
 @author: Zack Westermann
 
-The GDAXMarketDataHandler is a wrapper for the
+The GDAXMarketDataHandler is a wrapper for the GDAX WebsocketClient class.
+
+Further documentation of the GDAX API can be found here: https://docs.gdax.com/#overview
 
 """
 
